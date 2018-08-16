@@ -1,2 +1,3 @@
-# Open-ERP-Odoo
-Basic Installation
+# Open ERP Odoo - Google ERP Open Source
+
+
